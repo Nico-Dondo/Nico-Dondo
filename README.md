@@ -4,9 +4,9 @@ Soy **QA Ssr** con experiencia en pruebas de software y aseguramiento de calidad
 
 ![QA Background](https://github.com/tu_usuario/tu_repositorio/raw/main/nombre_de_la_imagen.jpg)
 
-## 🎓 Educación
 
-## 📚 Cursos
+
+## 📚 Educacion
 
 - **QA en Coderhouse**  
   Curso de Aseguramiento de Calidad (QA) - [Link al curso](https://www.coderhouse.com)
