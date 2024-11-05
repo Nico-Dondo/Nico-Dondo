@@ -1,7 +1,5 @@
 # 👋 Hola, soy Nicolás
 
-![QA Banner](https://blog.desafiolatam.com/wp-content/uploads/2023/06/curso-QA-tester-1-1.jpg)
-
 Soy **QA Ssr** con experiencia en pruebas de software y aseguramiento de calidad. Me apasiona garantizar que los productos sean de la más alta calidad y que cumplan con las expectativas del usuario.
 
 ## 💼 Experiencia Laboral
@@ -11,7 +9,12 @@ Soy **QA Ssr** con experiencia en pruebas de software y aseguramiento de calidad
   
 - **Tutor de QA en Coderhouse**  
   Impartiendo conocimientos sobre aseguramiento de calidad a estudiantes, ayudándoles a desarrollar habilidades prácticas en el campo.
+  
+- **QA en Syloper**  
+  Trabajé como QA, donde desarrollé habilidades para asegurar la calidad de los proyectos.
 
+- **QA Freelance en Code Craze**  
+  Trabajo Freelance(actualmente lo hago) con proyectos de la compañia
 ## 📚 Educación
 
 - **QA en Coderhouse**  
@@ -29,7 +32,7 @@ Soy **QA Ssr** con experiencia en pruebas de software y aseguramiento de calidad
 
 Aquí hay algunas herramientas y tecnologías que conozco:
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" height="50" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="50" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="50" />
