@@ -5,17 +5,24 @@ Soy **QA Ssr** con experiencia en pruebas de software y aseguramiento de calidad
 
 ## 💼 Experiencia Laboral
 
-- **QA en Balloon Group**  
-  Trabajando como QA, donde me encargo de asegurar la calidad del software y realizar pruebas exhaustivas.
-  
-- **Tutor de QA en Coderhouse**  
-  Impartiendo conocimientos sobre aseguramiento de calidad a estudiantes, ayudándoles a desarrollar habilidades prácticas en el campo.
-  
-- **QA en Syloper**  
-  Trabajé como QA, donde desarrollé habilidades para asegurar la calidad de los proyectos.
+### QA Lead en Balloon Group *(13/11/2024 - Presente)*
+- Lidero estrategias de calidad, coordinando pruebas manuales y automatizadas.  
+- Gestión de equipo, definición de procesos y aseguramiento de buenas prácticas en entornos ágiles.  
 
-- **QA Freelance en Code Craze**  
-  Trabajo Freelance (actualmente lo hago) con proyectos de la compañía.
+### QA Manual en Balloon Group *(03/04/2025 - 13/11/2025)*
+- Diseñé y ejecuté pruebas manuales para garantizar la calidad del software.  
+- Reporte y seguimiento de bugs, colaboración con equipos de desarrollo y trabajo en metodologías ágiles.  
+
+### Tutor de QA en Coderhouse *(10/02/2024 - Presente)*
+- Guío a estudiantes en conceptos de aseguramiento de calidad, revisión de test cases, resolución de dudas y sesiones en vivo.  
+
+### QA Manual en Syloper *(01/10/2023 - 02/04/2024)*
+- Realicé pruebas funcionales, de integración y regresión para garantizar la estabilidad de los proyectos.  
+- Reporte y seguimiento de bugs.  
+
+### QA Freelance en Code Craze *(08/10/2022 - Presente)*
+- Desarrollo y ejecución de pruebas en proyectos freelance, asegurando la calidad del software en diferentes entornos.  
+
 
 ## 📚 Educación
 
