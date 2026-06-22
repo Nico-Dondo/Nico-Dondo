@@ -4,8 +4,11 @@
 Soy **QA Ssr** con experiencia en pruebas de software y aseguramiento de calidad. Me apasiona garantizar que los productos sean de la más alta calidad y que cumplan con las expectativas del usuario.
 
 ## 💼 Experiencia Laboral
+### QA Manual en Crowdar *(06/04/202 - Presente)*
+- Diseño y ejecucion de casos de prueba. 
+- Pruebas de performance, carga y rendimiento utilizando Jenkins y Locust.
 
-### QA Lead en Balloon Group *(13/11/2024 - Presente)*
+### QA Lead en Balloon Group *(13/11/2024 - 30/11/2025)*
 - Lidero estrategias de calidad, coordinando pruebas manuales y automatizadas.  
 - Gestión de equipo, definición de procesos y aseguramiento de buenas prácticas en entornos ágiles.  
 
